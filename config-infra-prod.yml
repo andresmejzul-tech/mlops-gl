@@ -19,9 +19,8 @@ variables:
 
   # For pipeline reference
 <<<<<<< HEAD
-  resource_group: <enter-your-resource-group-name>
-  aml_workspace: <enter-your-aml-workspace-name>
-
+  resource_group: default_resource_group
+  aml_workspace: default_resource_group
 =======
   resource_group: default_resource_group
   aml_workspace: default_resource_group
